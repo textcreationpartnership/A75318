@@ -1,0 +1,616 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ancient and true prophesie of all those transactions that have already happened: also what is to come: of the event of the great actions in being: what government we are to expect. In which is contained, excellent cautions to the sonnes of men. Written in verse, in the latter end of the raign of Queen Elizabeth, and found in Sir Robert Cotton's library.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75318</idno>
+            <idno type="STC">Wing A3067</idno>
+            <idno type="STC">Thomason E993_23</idno>
+            <idno type="STC">ESTC R207786</idno>
+            <idno type="EEBO-CITATION">99866815</idno>
+            <idno type="PROQUEST">99866815</idno>
+            <idno type="VID">168670</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75318)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168670)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E993[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ancient and true prophesie of all those transactions that have already happened: also what is to come: of the event of the great actions in being: what government we are to expect. In which is contained, excellent cautions to the sonnes of men. Written in verse, in the latter end of the raign of Queen Elizabeth, and found in Sir Robert Cotton's library.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Page, living in Barbican, in Three Pigeon-Court,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLIX. [1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "Aug. 15.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168670:1" rendition="simple:additions"/>
+            <p>An ancient and true PROPHESIE Of all thoſe <hi>TRANSACTIONS</hi> that have already happened: Alſo what is to come: Of the Event of the great Actions in being: What Govern<g ref="char:EOLhyphen"/>ment we are to expect.</p>
+            <p>In which is contained, excellent Cautions to the Sonnes of Men.</p>
+            <p>Written in Verſe, in the latter end of the Raign of Queen <hi>ELIZABETH,</hi> and found in Sir ROBERT COTTON'S <hi>LIBRARY.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>R. Page,</hi> living in Barbican, in Three Pigeon-Court, MDCLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="2" facs="tcp:168670:2"/>
+            <head>An Ancient Propheſie.</head>
+            <lg>
+               <l>NOw I will ſhew you, by what <hi>Pedigree</hi>
+               </l>
+               <l>That <hi>Government,</hi> to you deriv'd ſhall be;</l>
+               <l>Which will, at laſt, theſe <hi>Britiſh Iſlands</hi> bleſſe</l>
+               <l>With inward <hi>Peace,</hi> and outward happineſſe.</l>
+               <l>It was of late, a brief <hi>Preſage</hi> of his,</l>
+               <l>Who, oft, hath truth foretold: And, it is this.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>When, here, a</hi> Scot <hi>ſhall think his Throne to ſet,</hi>
+               </l>
+               <l>
+                  <hi>Above the</hi> Circle <hi>of a</hi> Brittiſh King;</l>
+               <l>
+                  <hi>He ſhall a dateleſſe</hi> Parliament <hi>beget,</hi>
+               </l>
+               <l>
+                  <hi>From whence a dreadful</hi> Armed brood <hi>ſhall ſpring.</hi>
+               </l>
+               <l>
+                  <hi>That</hi> off ſpring <hi>ſhall beget a wild</hi> confuſion;</l>
+               <l>Confuſion, <hi>ſhall an</hi> Anarchy <hi>beget;</hi>
+               </l>
+               <l>
+                  <hi>That</hi> Anarchy <hi>ſhall bring forth, in concluſion,</hi>
+               </l>
+               <l>
+                  <hi>A</hi> Creature, <hi>which you have no</hi> name <hi>for, yet:</hi>
+               </l>
+               <l>
+                  <hi>That</hi> Creature, <hi>ſhall conceive a ſickly</hi> State,</l>
+               <l>
+                  <hi>Which will an</hi> Ariſtocracie <hi>produce:</hi>
+               </l>
+               <l>
+                  <hi>The</hi> many headed Beaſt, <hi>not liking that,</hi>
+               </l>
+               <l>
+                  <hi>To raiſe</hi> Democracy, <hi>ſhall rather chuſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And, then</hi> Democracie's <hi>production ſhall</hi>
+               </l>
+               <l>
+                  <hi>A</hi> Moon calfe <hi>be; which ſome a</hi> Mole <hi>do call.</hi>
+               </l>
+               <l>
+                  <hi>A falſe Conception of imperfect nature,</hi>
+               </l>
+               <l>
+                  <hi>And, of a ſhapeleſſe, and a brutiſh feature.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>All theſe</hi> Deſcents, <hi>ſhall Live and Raign together;</hi>
+               </l>
+               <l>
+                  <hi>So acting for a while, that few ſhall know</hi>
+               </l>
+               <l>
+                  <hi>Which of them gets the</hi> Sov'raignty; <hi>or whether</hi>
+               </l>
+               <l>
+                  <hi>There be among them, a</hi> Supreme, <hi>or no.</hi>
+               </l>
+               <l>
+                  <hi>When they with jarrs and janglings have defac'd</hi>
+               </l>
+               <l>
+                  <hi>Your</hi> triple-building, <hi>and themſelves nigh worne,</hi>
+               </l>
+               <l>
+                  <hi>Into contempt; they, of one cup ſhall taſt;</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>And, into their firſt</hi> elements <hi>return:</hi>
+               </l>
+               <l>Fire <hi>of them, ſhall ſubdue the other</hi> five;</l>
+               <l>
+                  <hi>And, then thoſe</hi> five, <hi>ſhall by a doubtful ſtrife,</hi>
+               </l>
+               <l>
+                  <hi>Each others death ſo happily contrive,</hi>
+               </l>
+               <l>
+                  <hi>That, they ſhall</hi> die, <hi>to</hi> live <hi>a better life:</hi>
+               </l>
+               <pb n="3" facs="tcp:168670:2"/>
+               <l> 
+                  <hi>And, out of their</hi> corruption, <hi>riſe there ſhall</hi>
+               </l>
+               <l>
+                  <hi>A true</hi> Supreme, <hi>acknowledged by all.</hi>
+               </l>
+               <l>
+                  <hi>In which the</hi> pow'r <hi>of all the</hi> five <hi>ſhall be</hi>
+               </l>
+               <l>
+                  <hi>With</hi> Unity <hi>made viſible in</hi> three.</l>
+            </lg>
+            <lg>
+               <l>Prince, People, Parliament, <hi>with</hi> Prieſts <hi>and</hi> Peers,</l>
+               <l>
+                  <hi>Shall be, a while, your emulous</hi> Grandees;</l>
+               <l>
+                  <hi>Make a confuſed</hi> Pentarchy <hi>ſome years,</hi>
+               </l>
+               <l>
+                  <hi>And, leave off their diſtinct claimes, by degrees:</hi>
+               </l>
+               <l>
+                  <hi>And, then, ſhall</hi> Righteouſneſſe <hi>aſcend the</hi> Throne;</l>
+               <l>
+                  <hi>Then,</hi> love, <hi>and</hi> truth, <hi>and</hi> peace <hi>re enter ſhall:</hi>
+               </l>
+               <l>
+                  <hi>Then</hi> faith, <hi>and</hi> reaſon, <hi>ſhall agree in one;</hi>
+               </l>
+               <l>
+                  <hi>And, all the</hi> Vertues <hi>to their counſel call.</hi>
+               </l>
+               <l>
+                  <hi>Then, timely out of all theſe ſhall ariſe,</hi>
+               </l>
+               <l>
+                  <hi>That</hi> Kingdom, <hi>and that happy</hi> Government,</l>
+               <l>
+                  <hi>Which is the ſcope of all thoſe</hi> Prophecies,</l>
+               <l>
+                  <hi>That</hi> future Truths <hi>obſcurely repreſent:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>But how this will be done, few men ſhall ſee;</hi>
+               </l>
+               <l>
+                  <hi>For, wrought in</hi> Clouds <hi>and</hi> Darkneſſe, <hi>it will be:</hi>
+               </l>
+               <l>
+                  <hi>And, ere it comes to paſſe, in publike view,</hi>
+               </l>
+               <l>
+                  <hi>Moſt of theſe following ſignes will firſt enſue.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A</hi> King, <hi>ſhall willingly himſelf unking;</hi>
+               </l>
+               <l>
+                  <hi>And, thereby grow far greater then before.</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Prieſts, <hi>their</hi> Prieſthood, <hi>to contempt ſhall bring;</hi>
+               </l>
+               <l>
+                  <hi>And</hi> Piety <hi>ſhall thereby thrive the more.</hi>
+               </l>
+               <l>
+                  <hi>A</hi> Parliament, <hi>it ſelf ſhall overthrow;</hi>
+               </l>
+               <l>
+                  <hi>And thereby, ſhall a better</hi> being <hi>gain;</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Peers, <hi>by ſetting of themſelves below,</hi>
+               </l>
+               <l>
+                  <hi>A more innobling honour ſhall obtain:</hi>
+               </l>
+               <l>
+                  <hi>The</hi> People <hi>for a time ſhall be inſlav'd;</hi>
+               </l>
+               <l>
+                  <hi>And, that ſhall make them for the future free.</hi>
+               </l>
+               <l>
+                  <hi>By</hi> private loſſe, <hi>the</hi> publike <hi>ſhall be ſav'd;</hi>
+               </l>
+               <l>
+                  <hi>An</hi> Army <hi>ſhall by yeelding</hi> Victor <hi>be:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>The</hi> Citie's <hi>wealth, Her poverty ſhall Cauſe:</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Law's corruption, <hi>ſhall reforme the</hi> Laws:</l>
+               <l>
+                  <hi>And,</hi> Bullocks, <hi>of the largeſt Northren breed,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Shall fatted be, where now ſcarce</hi> ſheep <hi>can feed.</hi>
+               </l>
+               <l>You may perhaps deride what's here recited,</l>
+               <l>As, heretofore you other <hi>Truths</hi> have ſleighted.</l>
+               <l>But, part of this <hi>Preſage</hi> you have beheld,</l>
+               <l>Already in obſcurity, fulfill'd:</l>
+               <pb n="4" facs="tcp:168670:3"/>
+               <l> The reſt ſhall in the time appointed come;</l>
+               <l>And, ſooner, than will pleaſing be to ſome.</l>
+               <l>The laſt <hi>nine</hi> ſignes, or ſymptoms, of the <hi>ten,</hi>
+               </l>
+               <l>Which muſt precede it, ſhall appear to men</l>
+               <l>Of all conditions; But, our <hi>Authour</hi> ſaith,</l>
+               <l>The <hi>first,</hi> is but in <hi>Hope,</hi> not yet in <hi>Faith;</hi>
+               </l>
+               <l>And may be, or not be; for, ſo, or ſo,</l>
+               <l>That King, ſhall have his <hi>lot,</hi> as he ſhall do.</l>
+            </lg>
+            <lg>
+               <l>If all his <hi>ſins,</hi> he heartily repent,</l>
+               <l>God, will remit, ev'n all his <hi>puniſhment;</hi>
+               </l>
+               <l>And, him, unto his <hi>Kingdomes,</hi> back reſtore,</l>
+               <l>With greater honour than he had before.</l>
+               <l>If he remain impenitent, like <hi>Saul,</hi>
+               </l>
+               <l>God, from the Throne, ſhall caſt both him, and all</l>
+               <l>His whole <hi>Deſcent;</hi> and, leave him not a man</l>
+               <l>To fill it, though he had a <hi>Jonathan.</hi>
+               </l>
+               <l>If <hi>Ahab</hi> like, his <hi>mourning</hi> hath reſpects</l>
+               <l>To temporary loſſes and effects;</l>
+               <l>Like <hi>Ahab's,</hi> then, it therewithall ſhall carry,</l>
+               <l>Some benefit, which is but temporary.</l>
+               <l>A <hi>real penitence,</hi> though ſomewhat late,</l>
+               <l>The rigour of his <hi>doom</hi> may much abate;</l>
+               <l>By leaving him a <hi>part</hi> of what he had,</l>
+               <l>When he a forfeiture of all hath made:</l>
+               <l>Or elſe, by rooting out thoſe, who in ſin</l>
+               <l>With him, have actually partakers been;</l>
+               <l>And, planting in their ſteads, a <hi>Branch</hi> of his,</l>
+               <l>Whoſe <hi>Innocency</hi> no way queſtion'd is.</l>
+            </lg>
+            <lg>
+               <l>For, this hath oft, with good ſucceſſe been done.</l>
+               <l>In Ages paſt; not, in this <hi>Iſle</hi> alone,</l>
+               <l>But, in moſt other <hi>Kingdoms:</hi> And, if you</l>
+               <l>Will in GOD's <hi>Chronicles,</hi> but take a view,</l>
+               <l>Of his proceedings; you, in them will ſee,</l>
+               <l>For what it is, that <hi>Princes</hi> changed be:</l>
+               <l>Why ſome loſe but a part; why ſome loſe all;</l>
+               <l>Why, for a time; why, ſome for ever fall;</l>
+               <l>Why, ſome ſhall but for <hi>three deſcents</hi> remain;</l>
+               <l>And, how they might have had a longer raign:</l>
+               <l>When <hi>War,</hi> when <hi>Peſtilence,</hi> when <hi>Death,</hi> will come</l>
+               <l>Upon a Land; when GOD will take it from</l>
+               <pb n="5" facs="tcp:168670:3"/>
+               <l> That land again; and, how, they may foreknow,</l>
+               <l>When, he will bring a <hi>total overthrow.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>They, who have learn'd to contemplate aright</l>
+               <l>Thoſe old <hi>records,</hi> may gain a true foreſight</l>
+               <l>Of many things, whereby to regulate</l>
+               <l>Enormities, both in the <hi>Church,</hi> and <hi>State;</hi>
+               </l>
+               <l>Things to <hi>themſelves</hi> pertaining; to their Friends,</l>
+               <l>Their <hi>Foes,</hi> their <hi>Policies,</hi> their <hi>Fates,</hi> their <hi>Ends:</hi>
+               </l>
+               <l>And, if it were not ſo; what, are to you,</l>
+               <l>The <hi>ſtories</hi> of the <hi>Kingdomes</hi> of the <hi>Jew,</hi>
+               </l>
+               <l>Or of their <hi>Friends</hi> and <hi>Foes,</hi> more uſual than</l>
+               <l>Thoſe, which concern the Realms of <hi>Powhatan?</hi>
+               </l>
+               <l>Or, ſo available, as thoſe relations,</l>
+               <l>Which memorize the deeds of your own Nations?</l>
+            </lg>
+            <lg>
+               <l>But all this is but words; there muſt be deeds,</l>
+               <l>Ere to perfection any thing proceeds:</l>
+               <l>You muſt not everlaſtingly be ſtating</l>
+               <l>The <hi>Queſtion;</hi> or, be ſeven years more debating:</l>
+               <l>For, ere that time, things will too late be done;</l>
+               <l>Which many fear, will come to paſſe too ſoon.</l>
+               <l>Expect you, ſome <hi>third perſons,</hi> ſhould between</l>
+               <l>The <hi>King</hi> and you, at this time intervene</l>
+               <l>To make attonement? Pray, who ſhould they be?</l>
+               <l>Who, wiſheth you ſo well? who doth not ſee,</l>
+               <l>That, all, 'twixt <hi>whom,</hi> and <hi>you,</hi> there be relations,</l>
+               <l>Them qualifying for ſuch mediations,</l>
+               <l>May get more, by your <hi>wo,</hi> then by your <hi>weale?</hi>
+               </l>
+               <l>Who knows not, how with <hi>Friends</hi> moſt <hi>Friends</hi> now deal?</l>
+               <l>And, who perceives not, that thoſe <hi>Mediators</hi>
+               </l>
+               <l>Have intereſts, and many weighty matters</l>
+               <l>Pertaining to themſelves, which they'l begin</l>
+               <l>On ſuch a fair occaſion, to hedge in?</l>
+               <l>And, whereby peradventure they may bring</l>
+               <l>Great diſadvantages, upon the <hi>King,</hi>
+               </l>
+               <l>Or, on the <hi>Kingdomes:</hi> and, perhaps on both,</l>
+               <l>Which to indanger, <hi>wiſe-men</hi> would be loth?</l>
+            </lg>
+            <lg>
+               <l>What then can be effected? or by whom</l>
+               <l>May your deſires, now feiſeable become?</l>
+               <l>Since, there is no way open for <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cceſſe,</l>
+               <l>Nor any means admitted for addreſſe?</l>
+               <pb n="6" facs="tcp:168670:4"/>
+               <l> The <hi>Parliament,</hi> conceives it ſelf abus'd,</l>
+               <l>In that, their offers have been oft refus'd;</l>
+               <l>And, ſeems reſolv'd that they will never more</l>
+               <l>Send Meſſages in vain, as heretofore:</l>
+               <l>And though the <hi>King,</hi> were now as penitent,</l>
+               <l>As <hi>David</hi> and <hi>Manaſſeh,</hi> with intent,</l>
+               <l>Unfainedly to ſatisfie, and do</l>
+               <l>What ever juſtice doth oblige him to;</l>
+               <l>What ever, you in reaſon could require,</l>
+               <l>To anſwer, at the full your own deſire;</l>
+               <l>Or, whatſoe're <hi>affections mortified.</hi>
+               </l>
+               <l>A <hi>contrite heart,</hi> or <hi>conſcience rectifi'd,</hi>
+               </l>
+               <l>Should urge him to: yet, now, there is no way,</l>
+               <l>Whereby, this, may be manifeſt, you ſay.</l>
+            </lg>
+            <lg>
+               <l>Deſpair not, <hi>Friends:</hi> mind what I ſaid before;</l>
+               <l>True <hi>penitence,</hi> will find, or make a door:</l>
+               <l>Though, it be Treaſon voted, now to bring</l>
+               <l>Or, carry Meſſage, to or from the <hi>King:</hi>
+               </l>
+               <l>Although his <hi>perſon</hi> be retain'd in ward;</l>
+               <l>Attended alwayes, with an armed <hi>Guard:</hi>
+               </l>
+               <l>Although ſtrong walls, have round incloſed him:</l>
+               <l>Though rocks, far ſtronger, have ſurrounded them;</l>
+               <l>Yea, though the raging and the roaring Seas,</l>
+               <l>Have alſo, like a <hi>mote,</hi> incircled theſe:</l>
+               <l>Through all theſe difficulties, I could find</l>
+               <l>Conveyances, if thereto he had mind,</l>
+               <l>To publiſh his <hi>repentance;</hi> and prevail.</l>
+               <l>If to performe his part, he ſhould not fail.</l>
+               <l>Yea, find him means, without an obligation</l>
+               <l>To any <hi>Party,</hi> or to any <hi>Nation,</hi>
+               </l>
+               <l>Or any, but himſelf; to make his peace,</l>
+               <l>With honour: and his <hi>Kingdomes</hi> to poſſeſſe.</l>
+            </lg>
+            <lg>
+               <l>Now, let him neither heed, nor hearken to</l>
+               <l>What other men do ſay, or what they do;</l>
+               <l>For whatſoever they ſhall act, or prattle,</l>
+               <l>(Will be to him, but fruitleſſe title tattle)</l>
+               <l>But, let him ſit down by himſelf alone;</l>
+               <l>And ſet down (as, he reads, it hath been done</l>
+               <l>By King <hi>Manaſſeh)</hi> moſt unfain'd confeſſions</l>
+               <l>Of all his known offences, and tranſgreſſions;</l>
+               <pb n="7" facs="tcp:168670:4"/>
+               <l> Acknowledge GOD's juſt dealing in afflicting;</l>
+               <l>His <hi>Providence,</hi> and <hi>mercy,</hi> in correcting</l>
+               <l>So like a <hi>Father,</hi> and, for his attending</l>
+               <l>So long time, for <hi>repentance</hi> and amending.</l>
+               <l>Let him expreſſe a reſolute intent,</l>
+               <l>To leave to GOD's diſpoſe, the government</l>
+               <l>Which he hath manag'd ill, and to reſigne</l>
+               <l>
+                  <hi>Himſelfe</hi> and <hi>his,</hi> to <hi>providence divine,</hi>
+               </l>
+               <l>With full aſſurance, of obtaining place,</l>
+               <l>In his free love, and alſufficient grace.</l>
+               <l>This done; let him, <hi>ſubſcribe</hi> the ſame, and ſpread it,</l>
+               <l>Before the LORD; let him with ſuch <hi>teares</hi> read it,</l>
+               <l>As may declare, it was his <hi>act</hi> and <hi>deed:</hi>
+               </l>
+               <l>Then, ſeal it, with a <hi>Heart, which much doth bleed;</hi>
+               </l>
+               <l>And, with a <hi>Lion rampant,</hi> ſo reverſt,</l>
+               <l>That, none may fear, his rage or bloody thirſt.</l>
+               <l>Upon which <hi>acts,</hi> by meanes of your relation,</l>
+               <l>And, by that <hi>ſpirit of communication,</hi>
+               </l>
+               <l>Whereby, moſt ſecret actions, are made known,</l>
+               <l>(When to good purpoſes they may be ſhown)</l>
+               <l>Ev'n at that point of time, they, who have bin</l>
+               <l>His oppoſites, will feel, ſome creeping in,</l>
+               <l>Firſt, <hi>hopes;</hi> then <hi>Good opinions;</hi> and, at laſt,</l>
+               <l>That which will blot out all <hi>Offences</hi> paſt;</l>
+               <l>And make them kill their <hi>fat calf;</hi> daunce and ſing;</l>
+               <l>That, they, have found again their <hi>long-loſt King.</hi>
+               </l>
+               <l>Oh! that I could behold that happy day</l>
+               <l>Of Paenitence; and, that behold I may</l>
+               <l>Both Parliament and People meet therein</l>
+               <l>So truly; that, their unrepentant ſinne</l>
+               <l>May not, when God hath re inthroned him,</l>
+               <l>Prolong their woes, or bring new plagues on them.</l>
+            </lg>
+            <lg>
+               <l>But, who am I, that, either <hi>you,</hi> or <hi>he,</hi>
+               </l>
+               <l>Should on my word rely, or take from me</l>
+               <l>Thoſe things which I have ſaid? know. I am that</l>
+               <l>Which is your GENIUS call'd. If, you ask what</l>
+               <l>A GENIUS is, I will define the ſame,</l>
+               <l>According to the <hi>nature</hi> and the <hi>name.</hi>
+               </l>
+               <l>So cal'd it is, becauſe it doth incline</l>
+               <l>With an affection truly Genuine,</l>
+               <pb n="8" facs="tcp:168670:5"/>
+               <l> To draw to good, and to withdraw from ill,</l>
+               <l>Thoſe Perſons, both in <hi>action</hi> and in <hi>will,</hi>
+               </l>
+               <l>Town om it doth relate; and from diſgraces,</l>
+               <l>And ſpoil, to keep ſuch <hi>Perſons,</hi> and ſuch <hi>places.</hi>
+               </l>
+               <l>A GENIUS, is an incorporeall creature,</l>
+               <l>Conſiſting of an intellectuall nature;</l>
+               <l>Which at the ſelf-ſame time, a <hi>being</hi> had.</l>
+               <l>With that, for whoſe <hi>well being</hi> it was made.</l>
+               <l>And, may be call'd, that <hi>Angel,</hi> which deſigneth,</l>
+               <l>Adviſeth, moveth, draweth, and inclineth</l>
+               <l>To happineſs; and, naturally reſtraineth</l>
+               <l>From harm, that creature, whereto it pertaineth:</l>
+               <l>And, this I am to you. Then, have a care,</l>
+               <l>My counſels now, with good reſpect to hear:</l>
+               <l>For, they, to whom their GENIUS repreſents,</l>
+               <l>That, which to ſafety tends, and harm prevents;</l>
+               <l>If, then, they ſhall his good advice neglect,</l>
+               <l>And, paſſe it by, with wilful diſreſpect;</l>
+               <l>They ſhall deſervedly, be left to thoſe</l>
+               <l>
+                  <hi>Ill Angels,</hi> whoſe direction, they have choſe:</l>
+               <l>And, what will then ſucceed, they ſhall perceive</l>
+               <l>When 'tis too late, their evil choice to leave.</l>
+               <l>Then looking back, he fixt his eyes on me,</l>
+               <l>And, ſaid, my <hi>Secretary</hi> thou ſhalt be</l>
+               <l>To Regiſter, and publiſh to theſe <hi>Nations,</hi>
+               </l>
+               <l>What counſels, warnings, and what exhortations</l>
+               <l>
+                  <hi>God</hi> hath vouchſaf'd them; that, what ere betide,</l>
+               <l>His <hi>Grace,</hi> or <hi>Juſtice</hi> may be glorifi'd.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>This being ſaid, my FANCY roſe, and drew</hi>
+               </l>
+               <l>
+                  <hi>A Curtain; wherewith, quite beyond my view,</hi>
+               </l>
+               <l>
+                  <hi>This</hi> Apparition <hi>vaniſh'd. And, I took</hi>
+               </l>
+               <l>
+                  <hi>My</hi> Pen, <hi>to put in writing, what was ſpoke,</hi>
+               </l>
+               <l>
+                  <hi>And publiſh it to others, that it may</hi>
+               </l>
+               <l>
+                  <hi>Prevent (if poſſible) your</hi> evill day:</l>
+               <l>
+                  <hi>For, till</hi> amendment, <hi>or</hi> deſtruction <hi>come,</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Beaſts <hi>would preach ſhould men continue dumb:</hi>
+               </l>
+               <l>
+                  <hi>Yea, what their</hi> Genius, <hi>now to them doth ſpeake,</hi>
+               </l>
+               <l>
+                  <hi>If they ſhould ſleight it,</hi> Stones <hi>would ſilence break,</hi>
+               </l>
+               <l>
+                  <hi>To rouze them from their</hi> ſlumbers; <hi>or, to tell</hi>
+               </l>
+               <l>Succeeding - Ages, <hi>how and why they fell.</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
